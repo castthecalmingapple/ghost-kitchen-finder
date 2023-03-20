@@ -1,0 +1,111 @@
+[
+    {
+        "address":{
+            "street":"13 Centereach Mall",
+            "city":"Centereach",
+            "state":"NY",
+            "zipCode":"11720"
+        },
+        "totalKitchens":"2",
+        "kitchens": {
+            "main":"Dickies BBQ Pit",
+            "ghost1":"Food Express"
+        }
+    },
+    {
+        "address":{
+            "street":"605 Portion Road",
+            "city":"Lake Ronkonkoma",
+            "state":"NY",
+            "zipCode":"11779"
+        },
+        "totalKitchens":"2",
+        "kitchens": {
+            "main":"Boston Market",
+            "ghost1":"Rotisserie Roast"
+        }
+    },
+    {
+        "address":{
+            "street":"280 Pond Path",
+            "city":"South Setauket",
+            "state":"NY",
+            "zipCode":"11720"
+        },
+        "totalKitchens":"2",
+        "kitchens": {
+            "main":"Chili's Bar & Grill",
+            "ghost1":"It's Just Wings"
+        }
+    },
+    {
+        "address":{
+            "street":"339 Portion Road",
+            "city":"Ronkonkoma",
+            "state":"NY",
+            "zipCode":"11779"
+        },
+        "totalKitchens":"3",
+        "kitchens": {
+            "main":"IHOP",
+            "ghost1":"TenderFix by Noah Schnapp",
+            "ghost2":"Pardon My Cheesesteak"
+        }
+    },
+    {
+        "address":{
+            "street":"625 Portion Road",
+            "city":"Ronkonkoma",
+            "state":"NY",
+            "zipCode":"11779"
+        },
+        "totalKitchens":"2",
+        "kitchens": {
+            "main":"Island Lake Diner",
+            "ghost1":"The Wicked Wings"
+        }
+    },
+    {
+        "address":{
+            "street":"708B Portion Road",
+            "city":"Lake Ronkonkoma",
+            "state":"NY",
+            "zipCode":"11779"
+        },
+        "totalKitchens":"2",
+        "kitchens": {
+            "main":"Paisano's Pizza & Catering",
+            "ghost1":"Winging It"
+        }
+    },
+    {
+        "address":{
+            "street":"1327 Middle Country Road",
+            "street2":"Suite B",
+            "city":"Centereach",
+            "state":"NY",
+            "zipCode":"11720"
+        },
+        "totalKitchens":"2",
+        "kitchens": {
+            "main":"The Halal Hut",
+            "ghost1":"Cheeky Chicken & Sandwiches"
+        }
+    },
+    {
+        "address":{
+            "street":"1070 Middle Country Road",
+            "city":"Selden",
+            "state":"NY",
+            "zipCode":"11784"
+        },
+        "totalKitchens":"5",
+        "kitchens": {
+            "main":"MELTology Grilled Cheese",
+            "ghost1":"Mighty Mac n Cheese",
+            "ghost2":"American Grilled Cheese Company",
+            "ghost3":"Chicken Kitchen",
+            "ghost4":"Burger Bros"
+        }
+    }
+]
